@@ -6,7 +6,10 @@ The question has four parts, answer all of them in this same file*/
  
 /*(a) [5 Marks] write structure Node that holds an integer value as well as a pointer to the next node*/
 //Answer:
-
+struct node{
+    int value; 
+    struct node *next;
+}; 
 
 
 
