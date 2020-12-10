@@ -1,4 +1,4 @@
-public class Point { 
+public class Point { //hi
 	protected int x, y; //coordinates
 	
 	public Point( int x, int y ) {
