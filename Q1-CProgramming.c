@@ -8,7 +8,10 @@ The question has four parts, answer all of them in this same file*/
 //Answer:
 
 
-
+struct node{
+    int value; 
+    struct node *next;
+}; 
 
 
 
